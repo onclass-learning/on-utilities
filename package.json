@@ -4,7 +4,8 @@
   "description": "utility library",
   "main": "./src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "“gabrielcaiana” <gabrielcaianaguedes@gmail.com> (https://gabrielcaiana.com/)",
@@ -12,7 +13,10 @@
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.20.2",
+    "@commitlint/cli": "^17.4.3",
+    "@commitlint/config-conventional": "^17.4.3",
     "babel-jest": "^29.4.2",
+    "husky": "^8.0.3",
     "jest": "^29.4.2"
   },
   "jest": {
