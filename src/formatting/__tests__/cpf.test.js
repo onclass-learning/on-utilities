@@ -1,4 +1,4 @@
-import { formatCpf } from '../src/format-cpf';
+import { formatCpf } from '../cpf';
 
 describe('formatCpf', () => {
   it('should format a valid CPF', () => {

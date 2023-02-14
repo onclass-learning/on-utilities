@@ -1,4 +1,4 @@
-import { formatDays } from '../src/format-days';
+import { formatDays } from '../days';
 
 describe('formatDays', () => {
   it('should return null if value is null', () => {

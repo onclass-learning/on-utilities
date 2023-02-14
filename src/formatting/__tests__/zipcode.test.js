@@ -1,4 +1,4 @@
-import { formatZipCode } from '../src/format-zipcode';
+import { formatZipCode } from '../zipcode';
 
 describe('formatZipCode', () => {
   it('should format valid zip code', () => {

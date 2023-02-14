@@ -1,4 +1,4 @@
-import { formatDate } from '../src/format-date';
+import { formatDate } from '../date';
 
 describe('formatDate', () => {
   it('returns an empty string when the value is null or undefined', () => {

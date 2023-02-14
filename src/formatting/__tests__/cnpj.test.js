@@ -1,4 +1,4 @@
-import { formatCnpj } from '../src/format-cnpj';
+import { formatCnpj } from '../cnpj';
 
 describe('formatCnpj', () => {
   it('should return formatted CNPJ', () => {

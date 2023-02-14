@@ -1,4 +1,4 @@
-import { formatDateTime } from '../src/format-date-time';
+import { formatDateTime } from '../date-time';
 
 describe('formatDateTime', () => {
   it('should format date and time correctly', () => {
