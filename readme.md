@@ -1,3 +1,14 @@
 # OnClass Utilities Functions
 
-- Format Date
+### Formatting
+
+- Bytes
+- Cnpj
+- Cpf
+- DateTime
+- Date
+- Days
+- Money
+- Percentage
+- Phone
+- Zipcode
