@@ -2,7 +2,7 @@
   <h1>OnClass Utilities Functions</h1>
   <p>Essa biblioteca contém funções utilitárias para formatação de dados e outras funcionalidades. Ela pode ser utilizada em projetos que necessitam de formatação de dados, como aplicações web, mobile, desktop, entre outras.</p>
 
-  ![tests](https://img.shields.io/appveyor/tests/onclass-learning/on-utilities)
+  ![version](https://img.shields.io/github/package-json/v/onclass-learning/on-utilities)
   ![status check](https://img.shields.io/github/actions/workflow/status/onclass-learning/on-utilities/test.yml)
 </div>
 
