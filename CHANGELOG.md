@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/onclass-learning/on-utilities/compare/v1.1.1...v1.2.0) (2023-02-15)
+
+
+### Features
+
+* create utils functions ([8b4f880](https://github.com/onclass-learning/on-utilities/commit/8b4f880853756f786e8d05adeb04d8b3516421c6))
+
 ## [1.1.1](https://github.com/onclass-learning/on-utilities/compare/v1.1.0...v1.1.1) (2023-02-15)
 
 
