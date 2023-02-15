@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/onclass-learning/on-utilities/compare/v1.2.0...v1.2.1) (2023-02-15)
+
+
+### Bug Fixes
+
+* fix import get extension file ([3097bf7](https://github.com/onclass-learning/on-utilities/commit/3097bf758ec837dfbbae8e0ebbc9c10c2a5e4f47))
+
 ## [1.2.0](https://github.com/onclass-learning/on-utilities/compare/v1.1.1...v1.2.0) (2023-02-15)
 
 
