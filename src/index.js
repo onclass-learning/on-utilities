@@ -1,3 +1,4 @@
+//formating
 export { formatBytes } from './formatting/bytes';
 export { formatCnpj } from './formatting/cnpj';
 export { formatCpf } from './formatting/cpf';
@@ -8,3 +9,10 @@ export { formatMoney } from './formatting/money';
 export { formatPercentage } from './formatting/percentage';
 export { formatPhone } from './formatting/phone';
 export { formatZipCode } from './formatting/zipcode';
+
+//utils
+export { wait } from './utils/wait';
+export { doTruncateText } from './utils/truncate-text';
+export { randomId } from './utils/random-id';
+export { getExtensionFile } from './utils/random-id';
+export { createNameIcon } from './utils/create-name-icon';
