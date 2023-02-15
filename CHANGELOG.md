@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/onclass-learning/on-utilities/compare/v1.2.1...v1.2.2) (2023-02-15)
+
+
+### Bug Fixes
+
+* update readme ([5c3949f](https://github.com/onclass-learning/on-utilities/commit/5c3949fd583b739d7e2932cc069619b397e54428))
+
 ## [1.2.1](https://github.com/onclass-learning/on-utilities/compare/v1.2.0...v1.2.1) (2023-02-15)
 
 
