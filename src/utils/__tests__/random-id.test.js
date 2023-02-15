@@ -9,6 +9,8 @@ describe('randomId', () => {
   it('randomId should generate different IDs', () => {
     const id1 = randomId();
     const id2 = randomId();
+
+    console.log(id2);
     expect(id1).not.toEqual(id2);
   });
 
