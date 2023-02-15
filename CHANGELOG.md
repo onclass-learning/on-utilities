@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/onclass-learning/on-utilities/compare/v1.1.0...v1.1.1) (2023-02-15)
+
+
+### Bug Fixes
+
+* folders exports ([04abd7e](https://github.com/onclass-learning/on-utilities/commit/04abd7e2a78d80205d9f1edfce2a7491ff42937b))
+
 ## [1.1.0](https://github.com/onclass-learning/on-utilities/compare/v1.0.0...v1.1.0) (2023-02-14)
 
 
