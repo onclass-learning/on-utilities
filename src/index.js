@@ -16,3 +16,4 @@ export { doTruncateText } from './utils/truncate-text';
 export { randomId } from './utils/random-id';
 export { getExtensionFile } from './utils/get-extension-file';
 export { createNameIcon } from './utils/create-name-icon';
+export { unmask } from './utils/unmask';
