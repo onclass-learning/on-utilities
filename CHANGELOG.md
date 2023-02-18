@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/onclass-learning/on-utilities/compare/v1.2.2...v1.3.0) (2023-02-18)
+
+
+### Features
+
+* add unmask utils ([c045064](https://github.com/onclass-learning/on-utilities/commit/c0450646cc247729d83ae4f40dec85fbe6794b3a))
+
 ## [1.2.2](https://github.com/onclass-learning/on-utilities/compare/v1.2.1...v1.2.2) (2023-02-15)
 
 
