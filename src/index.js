@@ -24,6 +24,5 @@ export { validateCpf } from './validations/cpf';
 export { validateEmail } from './validations/email';
 export { validateFullName } from './validations/full-name';
 export { validateRequiredLength } from './validations/required-length';
-export { validateRequiredLength } from './validations/required-length';
 export { validateRequired } from './validations/required';
 export { validateZipcode } from './validations/zipcode';
