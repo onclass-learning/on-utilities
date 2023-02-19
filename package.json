@@ -3,12 +3,30 @@
   "version": "1.3.0",
   "description": "utility library",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onclass-learning/on-utilities"
+  },
   "scripts": {
     "test": "jest",
-    "prepublishOnly": "jest",
+    "coverage": "jest --coverage",
+    "prepublishOnly": "jest -u",
     "prepare": "husky install"
   },
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "utils",
+    "validations",
+    "formatting",
+    "lib",
+    "front-end",
+    "back-end",
+    "data",
+    "strings",
+    "arrays",
+    "parse",
+    "json"
+  ],
   "author": "“gabrielcaiana” <gabrielcaianaguedes@gmail.com> (https://gabrielcaiana.com/)",
   "license": "MIT",
   "devDependencies": {
