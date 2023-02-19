@@ -1,16 +1,16 @@
-import { email } from '../email';
+import { validateEmail } from '../email';
 
-describe('email', () => {
+describe('validateEmail', () => {
   const message = 'E-mail Inválido!';
   it('passing valid value, must return true', () => {
-    expect(email('email@teste.com', message)).toEqual(true);
+    expect(validateEmail('email@teste.com', message)).toEqual(true);
   });
 
   it('passing incorrect values, should return an error message', () => {
-    expect(email('email@', message)).toEqual('E-mail Inválido!');
+    expect(validateEmail('email@', message)).toEqual('E-mail Inválido!');
   });
 
   it('passing empty, must return true', () => {
-    expect(email()).toEqual(true);
+    expect(validateEmail()).toEqual(true);
   });
 });

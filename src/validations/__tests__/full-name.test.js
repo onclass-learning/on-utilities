@@ -1,19 +1,19 @@
-import { fullName } from '../full-name';
+import { validateFullName } from '../full-name';
 
-describe('fullName', () => {
+describe('validateFullName', () => {
   test('Must return true when a valid full name is given as input', () => {
-    expect(fullName('João Silva')).toBe(true);
+    expect(validateFullName('João Silva')).toBe(true);
   });
 
   test('Should return error message when invalid input is provided', () => {
     const message = 'Por favor, insira um nome completo válido';
-    expect(fullName('123', message)).toBe(message);
-    expect(fullName('   ', message)).toBe(message);
+    expect(validateFullName('123', message)).toBe(message);
+    expect(validateFullName('   ', message)).toBe(message);
   });
 
   test('Must return undefined when input value is false', () => {
-    expect(fullName(null)).toBe(undefined);
-    expect(fullName(undefined)).toBe(undefined);
-    expect(fullName('')).toBe(undefined);
+    expect(validateFullName(null)).toBe(undefined);
+    expect(validateFullName(undefined)).toBe(undefined);
+    expect(validateFullName('')).toBe(undefined);
   });
 });

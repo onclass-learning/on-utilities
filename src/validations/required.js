@@ -1,1 +1,1 @@
-export const required = (v, message) => !!v || message;
+export const validateRequired = (v, message) => !!v || message;

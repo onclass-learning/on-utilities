@@ -1,4 +1,4 @@
-export const cpf = (v, message) => {
+export const validateCpf = (v, message) => {
   if (v === null || v === undefined || v === '') return false;
 
   v = v.replace(/-|\./g, '');
