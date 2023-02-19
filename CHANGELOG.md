@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://github.com/onclass-learning/on-utilities/compare/v1.3.0...v1.4.0) (2023-02-19)
+
+
+### Features
+
+* add cpf validation ([9e0dd8a](https://github.com/onclass-learning/on-utilities/commit/9e0dd8afe929080174a95665ee5596d5938a518d))
+* add email validation ([1914a48](https://github.com/onclass-learning/on-utilities/commit/1914a486d5c2df28bd3692aaba23bebbf1b57fb4))
+* add full name validation ([9fec1ca](https://github.com/onclass-learning/on-utilities/commit/9fec1cab6545529389b02d3498cd08802bf29d20))
+* add required length validation ([39a303d](https://github.com/onclass-learning/on-utilities/commit/39a303da1a51474b45f71066151f7c96fbc551fd))
+* add required validation ([a3542f5](https://github.com/onclass-learning/on-utilities/commit/a3542f5691a555c7d0ae304d6eaafb75bcee21e8))
+* add zipcode validation ([2d55962](https://github.com/onclass-learning/on-utilities/commit/2d55962be35cbe1218997fe5d5fc81d4317b86d6))
+
 ## [1.3.0](https://github.com/onclass-learning/on-utilities/compare/v1.2.2...v1.3.0) (2023-02-18)
 
 
