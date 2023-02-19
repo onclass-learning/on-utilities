@@ -2,8 +2,9 @@
   <h1>OnClass Utilities Functions</h1>
   <p>Essa biblioteca contém funções utilitárias para formatação de dados e outras funcionalidades. Ela pode ser utilizada em projetos que necessitam de formatação de dados, como aplicações web, mobile, desktop, entre outras.</p>
 
-  ![version](https://img.shields.io/github/package-json/v/onclass-learning/on-utilities)
-  ![status check](https://img.shields.io/github/actions/workflow/status/onclass-learning/on-utilities/test.yml)
+![version](https://img.shields.io/github/package-json/v/onclass-learning/on-utilities)
+![status check](https://img.shields.io/github/actions/workflow/status/onclass-learning/on-utilities/test.yml)
+
 </div>
 
 ## Instalação
@@ -219,3 +220,95 @@ import { createNameIcon } from '@onclass-tech-learning/on-utilities
 
 console.log(createNameIcon('John Doe')); // 'JD'
 ```
+
+## Funções de validação
+
+### `validateCnpj`
+
+verifica se um número CNPJ é válido
+
+Exemplo de uso:
+
+```js
+import { validateCnpj } from '@onclass-tech-learning/on-utilities
+
+console.log(validateCnpj('86294203000153', message)); // true
+```
+
+### `validateCpf`
+
+verifica se um número CPF é válido
+
+Exemplo de uso:
+
+```js
+import { validateCpf } from '@onclass-tech-learning/on-utilities
+
+console.log(validateCpf('85624945000', message)); // true
+```
+
+### `validateEmail`
+
+verifica se um endereço de email é válido
+
+Exemplo de uso:
+
+```js
+import { validateEmail } from '@onclass-tech-learning/on-utilities
+
+console.log(validateEmail('email@teste.com', message); // true
+```
+
+### `validateFullName`
+
+verifica se um nome completo está em um formato válido
+
+Exemplo de uso:
+
+```js
+import { validateFullName } from '@onclass-tech-learning/on-utilities
+
+console.log(validateFullName('João Silva')); // true
+```
+
+### `validateRequiredLength`
+
+verifica se uma string tem um comprimento mínimo
+
+Exemplo de uso:
+
+```js
+import { createNameIcon } from '@onclass-tech-learning/on-utilities
+
+console.log(validateFullName('João Silva')); // true
+```
+
+### `validateRequired`
+
+verifica se uma string é preenchida
+
+Exemplo de uso:
+
+```js
+import { validateRequiredLength } from '@onclass-tech-learning/on-utilities
+
+console.log(validateRequiredLength(['teste'], message)); // true
+```
+
+### `validateZipcode`
+
+verifica se um CEP é válido
+
+Exemplo de uso:
+
+```js
+import { validateZipcode } from '@onclass-tech-learning/on-utilities
+
+console.log(validateZipcode(validZipcode, message)); // true
+```
+
+---
+
+## Contribuindo
+
+Se você quiser contribuir para esta biblioteca, sinta-se à vontade para criar um problema ou enviar uma solicitação pull. Certifique-se de seguir as diretrizes de contribuição ao fazê-lo.
