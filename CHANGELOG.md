@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/onclass-learning/on-utilities/compare/v1.4.0...v1.4.1) (2023-02-19)
+
+
+### Bug Fixes
+
+* remove import duplicate ([94ffcfd](https://github.com/onclass-learning/on-utilities/commit/94ffcfd5e7ab10e78771365d560d0ef9f6f9135b))
+
 ## [1.4.0](https://github.com/onclass-learning/on-utilities/compare/v1.3.0...v1.4.0) (2023-02-19)
 
 
