@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
-    "prepublishOnly": "jest",
+    "coverage": "jest --coverage",
+    "prepublishOnly": "jest -u",
     "prepare": "husky install"
   },
   "keywords": [],
