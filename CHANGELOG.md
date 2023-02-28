@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/onclass-learning/on-utilities/compare/v1.4.1...v1.4.2) (2023-02-28)
+
+
+### Bug Fixes
+
+* unmask return ([b154097](https://github.com/onclass-learning/on-utilities/commit/b154097af670697b1d8d2dc1ec4171f96aa07862))
+
 ## [1.4.1](https://github.com/onclass-learning/on-utilities/compare/v1.4.0...v1.4.1) (2023-02-19)
 
 
