@@ -176,7 +176,7 @@ import { doTruncateText } from '@onclass-tech-learning/on-utilities
 const text = 'doTruncateText should return the full text when it is shorter than the limit'
 const limit = 20
 
-console.log(doTruncateText(text, limit)); // 'This is a longer tex...'
+console.log(doTruncateText(text, limit)); // 'doTruncateText shoul...'
 ```
 
 ### randomId
@@ -273,14 +273,14 @@ console.log(validateFullName('João Silva')); // true
 
 ### `validateRequiredLength`
 
-verifica se uma string tem um comprimento mínimo
+verifica se possui um elemento no array
 
 Exemplo de uso:
 
 ```js
-import { createNameIcon } from '@onclass-tech-learning/on-utilities
+import { validateRequiredLength } from '@onclass-tech-learning/on-utilities
 
-console.log(validateFullName('João Silva')); // true
+console.log(validateRequiredLength(['teste'], message)); // true
 ```
 
 ### `validateRequired`
@@ -290,9 +290,9 @@ verifica se uma string é preenchida
 Exemplo de uso:
 
 ```js
-import { validateRequiredLength } from '@onclass-tech-learning/on-utilities
+import { validateRequired } from '@onclass-tech-learning/on-utilities
 
-console.log(validateRequiredLength(['teste'], message)); // true
+console.log(validateRequired('teste', message)); // true
 ```
 
 ### `validateZipcode`
