@@ -147,7 +147,7 @@ Exemplo de uso:
 ```js
 import { formatZipCode } from '@onclass-tech-learning/on-utilities
 
-console.log(formatZipCode('12345678')) // '12345-678'
+console.log(formatZipCode('08452540')) // '12345-678'
 ```
 
 ## Funções Utilitárias
