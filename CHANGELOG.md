@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/onclass-learning/on-utilities/compare/v1.4.2...v1.5.0) (2023-03-02)
+
+
+### Features
+
+* generate dist folder ([e5b5f9d](https://github.com/onclass-learning/on-utilities/commit/e5b5f9d8bd0f2f469817dea3f33c85be9fb2d4df))
+
 ## [1.4.2](https://github.com/onclass-learning/on-utilities/compare/v1.4.1...v1.4.2) (2023-02-28)
 
 
