@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/onclass-learning/on-utilities/compare/v2.0.1...v2.0.2) (2023-03-02)
+
+
+### Bug Fixes
+
+* ignore commitlint.config ([d0a308e](https://github.com/onclass-learning/on-utilities/commit/d0a308e1f8df1e621fd8cb2a9d147549257a2d05))
+
 ## [2.0.1](https://github.com/onclass-learning/on-utilities/compare/v2.0.0...v2.0.1) (2023-03-02)
 
 
