@@ -13,3 +13,5 @@ test
 .husky
 
 node_modules
+
+commitlint.config.js
