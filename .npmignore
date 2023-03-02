@@ -6,8 +6,8 @@ coverage
 
 commitlint.config
 
-src/
-test/
+src
+test
 
 .github
 .husky
