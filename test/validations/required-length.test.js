@@ -1,4 +1,4 @@
-import { validateRequiredLength } from '../required-length';
+import { validateRequiredLength } from '../../src/validations/required-length';
 
 describe('validateRequiredLength', () => {
   const message = 'Este campo é obrigatório';

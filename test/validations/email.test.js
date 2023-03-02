@@ -1,4 +1,4 @@
-import { validateEmail } from '../email';
+import { validateEmail } from '../../src/validations/email';
 
 describe('validateEmail', () => {
   const message = 'E-mail Inválido!';

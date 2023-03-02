@@ -1,4 +1,4 @@
-import { unmask } from '../unmask.js';
+import { unmask } from '../../src/utils/unmask.js';
 
 describe('unmask', () => {
   it('must return the string value without mask', () => {

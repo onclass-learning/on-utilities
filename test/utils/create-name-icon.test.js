@@ -1,4 +1,4 @@
-import { createNameIcon } from '../create-name-icon';
+import { createNameIcon } from '../../src/utils/create-name-icon';
 
 describe('createNameIcon', () => {
   it('createNameIcon should return the correct initials for a full name', () => {

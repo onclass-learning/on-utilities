@@ -1,4 +1,4 @@
-import { formatPercentage } from '../percentage';
+import { formatPercentage } from '../../src/formatting/percentage';
 
 describe('formatPercentage', () => {
   it('should return percentage with two decimal places and formatted with commas and dots', () => {

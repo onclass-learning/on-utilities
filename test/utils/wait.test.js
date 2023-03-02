@@ -1,4 +1,4 @@
-import { wait } from '../wait';
+import { wait } from '../../src/utils/wait';
 
 describe('wait', () => {
   it('wait should resolve after the specified timeout', async () => {

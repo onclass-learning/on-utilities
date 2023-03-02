@@ -11,7 +11,8 @@
     "test": "jest",
     "coverage": "jest --coverage",
     "prepublishOnly": "jest -u",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "build": "babel src --out-dir dist"
   },
   "keywords": [
     "javascript",
@@ -30,7 +31,8 @@
   "author": "“gabrielcaiana” <gabrielcaianaguedes@gmail.com> (https://gabrielcaiana.com/)",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.20.12",
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.2",
     "@commitlint/cli": "^17.4.3",
     "@commitlint/config-conventional": "^17.4.3",

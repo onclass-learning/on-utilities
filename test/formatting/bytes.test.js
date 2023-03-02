@@ -1,4 +1,4 @@
-import { formatBytes } from '../bytes';
+import { formatBytes } from '../../src/formatting/bytes';
 
 describe('formatBytes', () => {
   it('formatBytes correctly formats input', () => {

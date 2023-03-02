@@ -1,4 +1,4 @@
-import { doTruncateText } from '../truncate-text';
+import { doTruncateText } from '../../src/utils/truncate-text';
 
 describe('doTruncateText', () => {
   it('doTruncateText should return the full text when it is shorter than the limit', () => {
