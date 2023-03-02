@@ -1,4 +1,4 @@
-import { formatDate } from '../date';
+import { formatDate } from '../../src/formatting/date';
 
 describe('formatDate', () => {
   it('returns an empty string when the value is null or undefined', () => {
@@ -16,7 +16,7 @@ describe('formatDate', () => {
   it('returns the date in the correct format based on the UTC time zone', () => {
     const value = '2023-01-01T00:00:00.000';
     const expected = new Date(value).toLocaleDateString('pt-BR', {
-      timeZone: 'UTC',
+      timeZone: 'UTC'
     });
     expect(formatDate(value)).toBe(expected);
   });

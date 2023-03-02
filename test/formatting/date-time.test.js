@@ -1,4 +1,4 @@
-import { formatDateTime } from '../date-time';
+import { formatDateTime } from '../../src/formatting/date-time';
 
 describe('formatDateTime', () => {
   it('should return null for falsy values', () => {

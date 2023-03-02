@@ -1,4 +1,4 @@
-import { validateFullName } from '../full-name';
+import { validateFullName } from '../../src/validations/full-name';
 
 describe('validateFullName', () => {
   test('Must return true when a valid full name is given as input', () => {

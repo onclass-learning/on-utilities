@@ -1,4 +1,4 @@
-import { validateRequired } from '../required';
+import { validateRequired } from '../../src/validations/required';
 
 describe('validateRequired', () => {
   const message = 'Este campo é obrigatório';

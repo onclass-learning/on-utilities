@@ -1,0 +1,15 @@
+coverage
+.babelrc
+
+.editorconfig
+.prettierrc
+
+.commitlint.config
+
+src
+test
+
+.github
+.husky
+
+node_modules

@@ -1,4 +1,4 @@
-import { validateZipcode } from '../zipcode';
+import { validateZipcode } from '../../src/validations/zipcode';
 
 describe('validateZipcode', () => {
   it('should return true for a valid zipcode in the format "12345-678"', () => {

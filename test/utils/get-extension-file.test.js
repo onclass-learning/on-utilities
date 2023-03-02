@@ -1,4 +1,4 @@
-import { getExtensionFile } from '../get-extension-file';
+import { getExtensionFile } from '../../src/utils/get-extension-file';
 
 describe('getExtensionFile', () => {
   it('should return "PDF" for "application/pdf" type', () => {

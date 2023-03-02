@@ -1,4 +1,4 @@
-import { formatMoney } from '../money';
+import { formatMoney } from '../../src/formatting/money';
 
 describe('formatMoney', () => {
   it('formatMoney should format a valid number correctly', () => {

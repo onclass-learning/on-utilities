@@ -1,4 +1,4 @@
-import { randomId } from '../random-id';
+import { randomId } from '../../src/utils/random-id';
 
 describe('randomId', () => {
   it('randomId should return a string', () => {
