@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/onclass-learning/on-utilities/compare/v2.0.0...v2.0.1) (2023-03-02)
+
+
+### Bug Fixes
+
+* change main folder ([c99741a](https://github.com/onclass-learning/on-utilities/commit/c99741a0cbcfd088f1bb67775e09e94a45f1db86))
+
 ## [2.0.0](https://github.com/onclass-learning/on-utilities/compare/v1.5.0...v2.0.0) (2023-03-02)
 
 
