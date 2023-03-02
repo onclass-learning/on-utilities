@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.0](https://github.com/onclass-learning/on-utilities/compare/v1.5.0...v2.0.0) (2023-03-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* functions are imported through the dist
+
+### Features
+
+* functions are imported through the dist ([3912bd8](https://github.com/onclass-learning/on-utilities/commit/3912bd8ea8702e6ae185a2ba8d5307933c16fbbc))
+* new major version ([5f7a2a5](https://github.com/onclass-learning/on-utilities/commit/5f7a2a51f717c7b4b03773cb83469893673ef8bf))
+
+
+### Bug Fixes
+
+* fix npm ignore ([1353240](https://github.com/onclass-learning/on-utilities/commit/13532403d0f07723a53a3e857542096b41d80901))
+
 ## [1.5.0](https://github.com/onclass-learning/on-utilities/compare/v1.4.2...v1.5.0) (2023-03-02)
 
 
