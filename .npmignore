@@ -4,10 +4,10 @@ coverage
 .editorconfig
 .prettierrc
 
-.commitlint.config
+commitlint.config
 
-src
-test
+src/
+test/
 
 .github
 .husky
